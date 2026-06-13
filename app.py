@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 # Configure the Streamlit page
 st.set_page_config(
-    page_title="LexiFlow Predictor",
+    page_title="TextFlow AI",
     page_icon="🔮",
     layout="centered"
 )
@@ -98,10 +98,10 @@ def generate_text(model, tokenizer, seed_text, max_len, n_words, index_to_word):
     return generated_words
 
 # --- MAIN APP UI ---
-st.title("🔮 LexiFlow")
+st.title("🔮 TextFlow AI")
 st.markdown("### *AI-Powered Next Word Prediction*")
 
-st.markdown("Type a few words below, and let LexiFlow guess what comes next. Adjust the slider if you want it to generate an entire phrase!")
+st.markdown("Type a few words below, and let TextFlow AI guess what comes next. Adjust the slider if you want it to generate an entire phrase!")
 
 # Load model and assets
 try:

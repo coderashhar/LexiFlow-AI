@@ -1,6 +1,6 @@
-# 🔮 LexiFlow - Next Word Predictor
+# 🔮 TextFlow AI - Next Word Predictor
 
-LexiFlow is an AI-powered Next Word Prediction application. It uses a deep learning LSTM (Long Short-Term Memory) model to analyze a given seed phrase and intelligently predict the following words. The project features a beautifully designed, modern user interface built with Streamlit.
+TextFlow AI is an AI-powered Next Word Prediction application. It uses a deep learning LSTM (Long Short-Term Memory) model to analyze a given seed phrase and intelligently predict the following words. The project features a beautifully designed, modern user interface built with Streamlit.
 
 ## Features
 
@@ -11,9 +11,9 @@ LexiFlow is an AI-powered Next Word Prediction application. It uses a deep learn
 
 ## Screenshots
 
-![LexiFlow Predictor Screenshot 1](./Screenshot1.png)
+![TextFlow AI Predictor Screenshot 1](./Screenshot1.png)
 
-![LexiFlow Predictor Screenshot 2](./Screenshot2.png)
+![TextFlow AI Predictor Screenshot 2](./Screenshot2.png)
 
 ## Technology Stack
 
