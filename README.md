@@ -11,9 +11,8 @@ LexiFlow AI is an AI-powered Next Word Prediction application. It uses a deep le
 
 ## Screenshots
 
-![TextFlow AI Predictor Screenshot 1](./Screenshot1.png)
+![TextFlow AI Predictor Screenshot 1](./screenshot.png)
 
-![TextFlow AI Predictor Screenshot 2](./Screenshot2.png)
 
 ## Technology Stack
 
